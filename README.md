@@ -1,1 +1,1 @@
-# Wörtezählen mit C#
+# Wörtezählen mit C-Sharp
