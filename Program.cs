@@ -5,10 +5,11 @@
  ** Author: 		Darius Korzeniewski
  ** Date:   		06.09.2016
  ** Filename:		program.cs
- ** Descirption:	Ist ein Programm das es gestatt 
- **			Woerter zu zaehlen
+ ** Descirption:	Ist ein C Sharp Programm das die  
+ **			doppelten Woerter zaehlt
  ** 
  ***********************************************************/
+ 
 using System;
 using System.Collections.Generic;
 using System.Linq;
